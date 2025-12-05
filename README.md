@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+[ReadMe.md](https://github.com/user-attachments/files/23956234/ReadMe.md)
+# 💫 About Me:
 🔭 I’m currently working on  <br>Building cloud-native microservices and APIs for fintech and healthcare projects, with a focus on secure, scalable architectures on AWS and Azure.[1][2]<br><br>👯 I’m looking to collaborate on  <br>Open-source tools for developers, especially around dev productivity, CI/CD pipelines, and clean Node.js backends.[2][1]<br><br>🤝 I’m looking for help with  <br>Refining production-grade observability setups (logs, metrics, traces) and experimenting with AI-assisted code review workflows.[3][1]<br><br>🌱 I’m currently learning  <br>Advanced cloud architecture patterns, cost optimization, and better ways to blend TypeScript, Docker, and Kubernetes in real-world deployments.[1][3]<br><br>💬 Ask me about  <br>Cloud architecture, API design, Node.js backends, project planning for tech teams, and turning rough ideas into deployable MVPs.[2][1]<br><br>⚡ Fun fact  <br>When not optimizing cloud infrastructure, there’s a good chance I’m organizing notes, tweaking a focus playlist, or sketching the next app idea on a whiteboard.[1][2]<br>
 
 
